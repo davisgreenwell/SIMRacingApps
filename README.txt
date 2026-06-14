@@ -1,4 +1,4 @@
-1. Download the zip anywhere. https://drive.google.com/file/d/1eYdrKODBi94wrtemaZZXZf-9LcBjBLZy/view?usp=sharing
+1. Download the zip anywhere. https://drive.google.com/file/d/1uFEHS2xaPxuZsqPKjFXYW3fFEmQPncCP/view?usp=sharing
 2. Extract the download.
 3. Inside the folder run the file "run-SimRacingApps.bat".
 4. Enjoy SimRacingApps like before.
